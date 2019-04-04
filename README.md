@@ -19,3 +19,4 @@ www.stefantrinh.co.uk
 - introduce a clean styled UI interface.
 - add congratulations message.
 - add players turn.
+- center game app
