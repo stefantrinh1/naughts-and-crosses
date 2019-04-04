@@ -1,0 +1,4 @@
+/* css file tic tac toe */
+#maintable{border: 3px solid black;}
+td {height: 150px; width: 150px; font-size: 100px ;border: 1px solid black; text-align: center}
+.thetable{margin: 10%}
