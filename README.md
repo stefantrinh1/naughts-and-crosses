@@ -6,7 +6,7 @@ Beginner or expert practice your strategy so you will never be beaten.
 developed By Stefan Trinh
 www.stefantrinh.co.uk
 
-## C
+## Construction
 
 - HTML
 - CSS
