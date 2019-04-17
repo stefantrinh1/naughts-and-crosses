@@ -1,16 +1,20 @@
 # Noughts-And-Crosses
 
-Play the classic Noughts and Crosses/Tic-Tac-Toe game for free online for two players.
-Beginner or expert practice your strategy so you will never be beaten.
+> __**Are You Bored?**__  
+> __**Want to kill some time?**__    
+> __**Why not play a game of Noughts and Crosses?**__  
 
-developed By Stefan Trinh
-www.stefantrinh.co.uk
+- [Go To Live Project](https://stefantrinh1.github.io/noughts-and-crosses/)
+
+## Description
+
+Play the classic Noughts and Crosses/Tic-Tac-Toe game for free online for two players. Beginner or expert practice your strategy so you will never be beaten.
 
 ## Construction
 
 - HTML
 - CSS
-- basic vanilla javascript.
+- Vanilla JavaScript.
 
 ## Plans For Improvement
 
@@ -20,3 +24,14 @@ www.stefantrinh.co.uk
 - add congratulations message.
 - add players turn.
 - center game app
+
+## Contact Details
+
+If you have any questions or would like to get in touch, please contact me using the details below.
+
+__**Stefan Trinh**__  
+Web Developer  
+
+e: stefantrinh1.work@gmail.com  
+g: https://github.com/stefantrinh1  
+w: http://www.stefantrinh.co.uk  
